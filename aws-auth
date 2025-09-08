@@ -12,6 +12,6 @@ data:
         - system:nodes
   mapUsers: |
     - userarn: arn:aws:iam::169158972098:user/VARAPRASAD
-      username: Varaprasad
+      username: VARAPRASAD
       groups:
         - roboshop-trainee
